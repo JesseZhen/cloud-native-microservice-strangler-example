@@ -1,6 +1,7 @@
 # Microservices: Cloud Native Legacy Strangler Example
 
 This reference application is a Spring Cloud example of implementing a cloud-native [Strangler Pattern](http://www.martinfowler.com/bliki/StranglerApplication.html) using microservices. The project is intended to demonstrate techniques for integrating a microservice architecture with legacy applications in an existing SOA. This reference architecture implements a hybrid cloud architecture that uses best practices for developing _Netflix-like_ microservices using Spring Cloud.
+[guide](http://www.kennybastani.com/2016/08/strangling-legacy-microservices-spring-cloud.html)
 
 * Cloud Native Microservices
   * Uses best practices for cloud native applications
